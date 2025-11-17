@@ -22,4 +22,4 @@ Acredito que com esse resultado, é bem possível enganar quem não está acostu
 Chegou a hora de sair de imagens estáticas e tentar gerar um vídeo. Aqui eu utilizei a IA do buscador do Google para achar uma IA que produzisse um vídeo a partir de uma imagem. Gostei do resultado que a HeyGen me proporcionou:
 https://github.com/user-attachments/assets/68dafd4d-60dd-48c0-a63b-df5111194111
 
-Com esses 3 exemplos simples podemos entender o poder das IAS generativas, o quanto elas tem evoluído desde seu surgimento, e que é uma ferramenta de fácil uso, então qualquer usuário pode criar vídeos rapidamente, gerar imagens, faixas de áudio, e utiliza-las para encrementar seus projetos, deixando eles mais modernos, dinâmicos, e com excelente estética.
+Com esses 3 exemplos simples podemos entender o poder das IAs Generativas, o quanto elas tem evoluído desde seu surgimento, e que é uma ferramenta de fácil uso, então qualquer usuário pode criar vídeos rapidamente, gerar imagens, faixas de áudio, e utiliza-las para encrementar seus projetos, deixando eles mais modernos, dinâmicos, e com excelente estética.
